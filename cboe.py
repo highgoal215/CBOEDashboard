@@ -22,7 +22,7 @@ st.set_page_config(
     page_title = 'Options Analysis Dashboard',
     layout = 'wide',
     menu_items={
-        "Get help":"https://discord.com/invite/Y4HDyB6Ypu",
+        "Get help":"https://discord.com/invite/1272954405670359082",
         },
     )
 st.title('CBOE Options Dashboard')
